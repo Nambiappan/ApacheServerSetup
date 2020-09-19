@@ -1,0 +1,16 @@
+
+Step 1:  Change to Sudo
+
+/ $ sudo -i
+
+Step 2:  install httpd
+
+/$ yum install httpd
+
+Step 3: Start the Apache Service
+
+/$ systemctl start httpd
+
+step 4:  Perform test and see the apache home is displayed in the CURL reponse.
+
+$ curl localhost
