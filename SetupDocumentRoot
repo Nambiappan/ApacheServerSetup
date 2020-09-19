@@ -1,0 +1,5 @@
+This file contains steps to change the Document Root to another directory instead of /www/root/html/.
+
+Step1 : Update the httpd.conf file present in /etc/httpd/conf/httpd.conf
+
+![image] 
